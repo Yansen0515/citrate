@@ -1,0 +1,98 @@
+Chromosome 7_14_20,,,,,Chromosome 20,,,
+triat,QTL,QTL_type,adj.pval,,triat,QTL,QTL_type,adj.pval
+Citrate1,Milk yield,Milk,0,,Citrate1,Ketosis,Health,3.63E-195
+Citrate1,Milk fat yield,Milk,1.43E-307,,Citrate1,Abomasum displacement,Health,2.26E-05
+Citrate1,Milk fat percentage,Milk,2.30E-184,,Citrate1,Milk C18 index,Milk,2.26E-05
+Citrate1,Ketosis,Health,8.07E-96,,Citrate1,Milk citrate content,Milk,2.26E-05
+Citrate1,Lifetime profit index,Production,5.85E-40,,Citrate1,Milk magnesium content,Milk,0.000124754
+Citrate1,Milk palmitic acid content,Milk,5.94E-38,,Citrate1,Milk lactose content,Milk,0.000415171
+Citrate1,Milk pentadecylic acid content,Milk,1.33E-37,,Citrate1,Milk alpha-lactalbumin percentage,Milk,0.000897771
+Citrate1,Milk oleic acid content,Milk,1.30E-34,,Citrate1,Colostrum albumin concentration,Milk,0.000974906
+Citrate1,Milk C18 index,Milk,3.79E-34,,Citrate1,Bovine respiratory disease susceptibility,Health,0.038080048
+Citrate1,Milk protein yield,Milk,2.48E-30,,Citrate2,Ketosis,Health,9.08E-196
+Citrate1,Milk protein percentage,Milk,1.70E-29,,Citrate2,Milk C18 index,Milk,2.14E-05
+Citrate1,Milk conjugated linoleic acid content,Milk,2.25E-29,,Citrate2,Abomasum displacement,Health,2.14E-05
+Citrate1,Milk linoleic acid content,Milk,8.26E-26,,Citrate2,Milk citrate content,Milk,2.14E-05
+Citrate1,Milk linolenic acid content,Milk,4.75E-22,,Citrate2,Milk magnesium content,Milk,0.000120861
+Citrate1,Milk fat-to-protein ratio,Milk,8.94E-21,,Citrate2,Milk lactose content,Milk,0.000398378
+Citrate1,305-day milk yield,Milk,6.30E-20,,Citrate2,Milk alpha-lactalbumin percentage,Milk,0.000870048
+Citrate1,Milk riboflavin content,Milk,1.14E-17,,Citrate2,Colostrum albumin concentration,Milk,0.000954461
+Citrate1,Milk casein percentage,Milk,1.39E-17,,Citrate2,Bovine respiratory disease susceptibility,Health,0.036182598
+Citrate1,Milk calcium content,Milk,5.98E-15,,Citrate3+,Ketosis,Health,1.42E-194
+Citrate1,Milk copper content,Milk,4.39E-13,,Citrate3+,Abomasum displacement,Health,2.38E-05
+Citrate1,Milk cholesterol content,Milk,1.09E-12,,Citrate3+,Milk C18 index,Milk,2.38E-05
+Citrate1,Milk palmitoleic acid content,Milk,2.56E-10,,Citrate3+,Milk citrate content,Milk,2.38E-05
+Citrate1,Milk myristic acid content,Milk,5.80E-09,,Citrate3+,Milk magnesium content,Milk,0.00012873
+Citrate1,Milk caprylic acid content,Milk,5.46E-07,,Citrate3+,Milk lactose content,Milk,0.000432477
+Citrate1,Milk citrate content,Milk,0.000113546,,Citrate3+,Milk alpha-lactalbumin percentage,Milk,0.000926065
+Citrate1,Milk kappa-casein content,Milk,0.000240058,,Citrate3+,Colostrum albumin concentration,Milk,0.000995567
+Citrate1,Heat tolerance,Health,0.015609494,,Citrate3+,Bovine respiratory disease susceptibility,Health,0.040049883
+Citrate1,Milk lauroleic acid content,Milk,0.015609494,,,,,
+Citrate1,Milk phosphorus content,Milk,0.017338039,,,,,
+Citrate1,Milk lactose yield,Milk,0.018559415,,,,,
+Citrate1,Milk fat content,Milk,0.024597996,,,,,
+Citrate1,Milk protein content,Milk,0.028265331,,,,,
+Citrate2,Milk yield,Milk,0,,,,,
+Citrate2,Milk fat yield,Milk,8.83E-308,,,,,
+Citrate2,Milk fat percentage,Milk,1.54E-184,,,,,
+Citrate2,Ketosis,Health,7.49E-96,,,,,
+Citrate2,Lifetime profit index,Production,5.74E-40,,,,,
+Citrate2,Milk palmitic acid content,Milk,5.63E-38,,,,,
+Citrate2,Milk pentadecylic acid content,Milk,1.28E-37,,,,,
+Citrate2,Milk oleic acid content,Milk,1.24E-34,,,,,
+Citrate2,Milk C18 index,Milk,3.67E-34,,,,,
+Citrate2,Milk protein yield,Milk,2.29E-30,,,,,
+Citrate2,Milk protein percentage,Milk,1.50E-29,,,,,
+Citrate2,Milk conjugated linoleic acid content,Milk,2.19E-29,,,,,
+Citrate2,Milk linoleic acid content,Milk,7.92E-26,,,,,
+Citrate2,Milk linolenic acid content,Milk,4.60E-22,,,,,
+Citrate2,Milk fat-to-protein ratio,Milk,8.84E-21,,,,,
+Citrate2,305-day milk yield,Milk,6.16E-20,,,,,
+Citrate2,Milk riboflavin content,Milk,1.11E-17,,,,,
+Citrate2,Milk casein percentage,Milk,1.36E-17,,,,,
+Citrate2,Milk calcium content,Milk,5.91E-15,,,,,
+Citrate2,Milk copper content,Milk,4.36E-13,,,,,
+Citrate2,Milk cholesterol content,Milk,1.08E-12,,,,,
+Citrate2,Milk palmitoleic acid content,Milk,2.46E-10,,,,,
+Citrate2,Milk myristic acid content,Milk,5.67E-09,,,,,
+Citrate2,Milk caprylic acid content,Milk,5.36E-07,,,,,
+Citrate2,Milk citrate content,Milk,0.000113244,,,,,
+Citrate2,Milk kappa-casein content,Milk,0.000239128,,,,,
+Citrate2,Heat tolerance,Health,0.015578573,,,,,
+Citrate2,Milk lauroleic acid content,Milk,0.015578573,,,,,
+Citrate2,Milk phosphorus content,Milk,0.017262684,,,,,
+Citrate2,Milk lactose yield,Milk,0.018516103,,,,,
+Citrate2,Milk fat content,Milk,0.024518813,,,,,
+Citrate2,Milk protein content,Milk,0.028200973,,,,,
+Citrate3+,Milk yield,Milk,0,,,,,
+Citrate3+,Milk fat yield,Milk,0.00E+00,,,,,
+Citrate3+,Milk fat percentage,Milk,1.57E-190,,,,,
+Citrate3+,Ketosis,Health,2.93E-96,,,,,
+Citrate3+,Lifetime profit index,Production,9.05E-40,,,,,
+Citrate3+,Milk palmitic acid content,Milk,1.88E-39,,,,,
+Citrate3+,Milk pentadecylic acid content,Milk,3.31E-38,,,,,
+Citrate3+,Milk oleic acid content,Milk,3.60E-36,,,,,
+Citrate3+,Milk C18 index,Milk,7.65E-34,,,,,
+Citrate3+,Milk protein yield,Milk,2.48E-30,,,,,
+Citrate3+,Milk protein percentage,Milk,4.29E-30,,,,,
+Citrate3+,Milk conjugated linoleic acid content,Milk,4.30E-29,,,,,
+Citrate3+,Milk linoleic acid content,Milk,1.47E-26,,,,,
+Citrate3+,Milk linolenic acid content,Milk,9.87E-22,,,,,
+Citrate3+,Milk fat-to-protein ratio,Milk,1.14E-20,,,,,
+Citrate3+,305-day milk yield,Milk,1.04E-19,,,,,
+Citrate3+,Milk riboflavin content,Milk,2.03E-17,,,,,
+Citrate3+,Milk casein percentage,Milk,2.19E-17,,,,,
+Citrate3+,Milk calcium content,Milk,7.52E-16,,,,,
+Citrate3+,Milk copper content,Milk,4.96E-13,,,,,
+Citrate3+,Milk cholesterol content,Milk,1.29E-12,,,,,
+Citrate3+,Milk palmitoleic acid content,Milk,1.68E-10,,,,,
+Citrate3+,Milk myristic acid content,Milk,9.41E-09,,,,,
+Citrate3+,Milk caprylic acid content,Milk,8.19E-07,,,,,
+Citrate3+,Milk citrate content,Milk,0.000120442,,,,,
+Citrate3+,Milk kappa-casein content,Milk,0.000261631,,,,,
+Citrate3+,Milk phosphorus content,Milk,0.007125338,,,,,
+Citrate3+,Heat tolerance,Health,0.015748688,,,,,
+Citrate3+,Milk lauroleic acid content,Milk,0.015748688,,,,,
+Citrate3+,Milk lactose yield,Milk,0.019545858,,,,,
+Citrate3+,Milk fat content,Milk,0.026417985,,,,,
+Citrate3+,Milk protein content,Milk,0.029729828,,,,,
